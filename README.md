@@ -30,19 +30,6 @@ A powerful and feature-rich face detection application that uses computer vision
 - Optimized detection algorithms
 - Adjustable detection parameters for fine-tuning
 
-## 📸 Screenshots
-
-### Face Detection Mode
-![Face Detection](screenshots/face.jpg)
-*Face detection with optional facial landmarks*
-
-### Eye Detection Mode
-![Eye Detection](screenshots/eyes.jpg)
-*Precise eye detection within face regions*
-
-### Smile Detection Mode
-![Smile Detection](screenshots/smile.jpg)
-*Smart smile detection with reduced false positives*
 
 ## 🚀 Installation
 
