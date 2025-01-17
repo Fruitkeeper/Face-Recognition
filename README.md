@@ -41,7 +41,7 @@ A powerful and feature-rich face detection application that uses computer vision
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/face_detection.git
+   git clone https://github.com/Fruitkeeper/Face-Recognition.git
    cd face_detection
    ```
 
